@@ -34,6 +34,8 @@ Please note that due to Google API restrictions, on the second load of the day y
 
 ## How To Run
 
+FIRST OF ALL YOU NEED TO PUT YOUR PERSONAL API KEYS FOR FOURSQUARE AND GOOGLE MAPS. Had to remove them from public view.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
