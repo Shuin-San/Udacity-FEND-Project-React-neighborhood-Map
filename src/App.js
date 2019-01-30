@@ -28,7 +28,7 @@ class App extends Component {
   
   // load script and render the map
   renderMap = () => {
-    loadScript("https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY_HERE&callback=initMap")
+    loadScript("https://maps.googleapis.com/maps/api/js?key=AIzaSyCdZGq8tOJZs9wcCWUweve9RX_Jg9dfZKI&callback=initMap")
     window.initMap = this.initMap;
   }
 
@@ -38,8 +38,8 @@ class App extends Component {
   getVenues = () => {
     const apiEndpoint = "https://api.foursquare.com/v2/venues/explore?"
     const parameters = {
-      client_id: "your client id here",
-      client_secret: "your client secret here",
+      client_id: "Q5GIYFO2PMJ5YXFLM1SNHOAFEHEOP2N14GGQ5J5TGSHD4Q4W",
+      client_secret: "WATK25XI42NC31VRTVYC03ETAPXM40ZZBSCXALMHEUXX45YS",
       categoryId : '4bf58dd8d48988d10e941735',
       ll: "50.8503,4.3517",
       v: "20190101"

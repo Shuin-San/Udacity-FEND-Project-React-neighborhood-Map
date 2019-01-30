@@ -1,9 +1,9 @@
 {
-  "name": "neighborhood-map",
+  "name": "my-neighborhood-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "escape-string-regexp": "^1.0.5",
+    "axios": "^0.18.0",
     "react": "^16.7.0",
     "react-burger-menu": "^2.6.2",
     "react-dom": "^16.7.0",
