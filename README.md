@@ -11,20 +11,32 @@ This project uses the following dependencies / services:
 
 ### APIs
 [FourSquare API](https://developer.foursquare.com/)
+
+
 [Google Maps API](https://cloud.google.com/maps-platform/)
+
+
 
 Please note that due to Google API restrictions, on the second load of the day you will get a "Development purposes only" overlay from google maps api.
 
 
 ### Modules/Packages
 [react-burger-menu](https://www.npmjs.com/package/react-burger-menu)
+
+
 [Axios](https://www.npmjs.com/package/axios) 
+
+
 [escape-string-regexp](https://www.npmjs.com/package/escape-string-regexp)
+
+
 
 
 ## How To Run
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 You must first install all dependencies using : 
 npm install
